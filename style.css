@@ -19,6 +19,7 @@ h1 {
     font-size: 100px;
     color: rgb(78, 78, 78);
     text-decoration: underline;
+    text-decoration-color: black;
     text-align: center;
     letter-spacing: 3px;
     position: relative;
