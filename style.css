@@ -18,7 +18,7 @@ header {
 h1 {
     font-size: 100px;
     color: rgb(78, 78, 78);
-    border-bottom: 5px solid rgb(0, 0, 0);
+    text-decoration: underline;
     text-align: center;
     letter-spacing: 3px;
     position: relative;
