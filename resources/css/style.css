@@ -11,6 +11,10 @@ img {
     border: 4px solid black;
 }
 
+img:hover {
+    cursor: pointer;
+}
+
 header {
     width: 50%;
     margin: 0 auto;
@@ -28,4 +32,23 @@ h1 {
 h2 {
     font-size: 50px;
     color: rgb(78, 78, 78);
+}
+
+footer {
+    position:fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 3rem;
+    background-color: rgb(34, 34, 34);
+    text-align: center;
+}
+
+footer a {
+    margin-right: 2rem;
+}
+
+a {
+    color: white;
+    text-decoration: none;
 }
